@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/easymall.iml" filepath="$PROJECT_DIR$/.idea/easymall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-common-repository/easymall-common-repository.iml" filepath="$PROJECT_DIR$/easymall-common-repository/easymall-common-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-common-resources/easymall-common-resources.iml" filepath="$PROJECT_DIR$/easymall-common-resources/easymall-common-resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-micro-zuul/easymall-micro-zuul.iml" filepath="$PROJECT_DIR$/easymall-micro-zuul/easymall-micro-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-microservice-product/easymall-microservice-product.iml" filepath="$PROJECT_DIR$/easymall-microservice-product/easymall-microservice-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-parent/easymall-parent.iml" filepath="$PROJECT_DIR$/easymall-parent/easymall-parent.iml" />
+    </modules>
+  </component>
+</project>

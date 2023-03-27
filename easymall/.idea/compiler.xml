@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easymall-microservice-product" />
+        <module name="easymall-common-resources" />
+        <module name="easymall-micro-zuul" />
+        <module name="easymall-common-repository" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easymall-common-repository" target="1.7" />
+      <module name="easymall-common-resources" target="1.7" />
+      <module name="easymall-micro-zuul" target="1.7" />
+      <module name="easymall-microservice-product" target="1.7" />
+      <module name="easymall-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
